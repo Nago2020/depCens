@@ -11,7 +11,7 @@ presented in the latter paper is based on a parametric copula for the
 relation between the survival time and the dependent censoring time, and
 the parameter defining the copula does not need to be known. Instead,
 the copula parameter is estimated jointly with other finite model
-parameters by maximizing a Pseudo likelihood function. Available copula
+parameters by maximizing a pseudo-likelihood function. Available copula
 functions in *depCens* package include Frank, Gumbel and Normal copulas.
 Only Weibull and Lognormal models are allowed for the censoring model,
 even though any parametric model that satisfies certain identifiability
